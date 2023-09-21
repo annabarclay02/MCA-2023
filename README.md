@@ -13,5 +13,13 @@ She holds 49 Grammy nominations, including 12 wins and has earned 9 no.1 hits on
 ### Task 2: Types of Data
 #### Descriptive Data
 In terms of descriptive data, the best places to find information on each album are Wikipedia and Genius. Taylor's own wesite operates primarily as a store and a source of information on her current tour and so doesn't provide much information on each individual release. 
+
+Due to her immense popularity and the huge level of information available online about Taylor Swift, each of her albums has its own Wikipedia page, including each re-recording. These Wikipedia pages include information on the album's composition, its reception, chart information, and individual track information which includes writers and duration. 
+
+Genius also has an extensive amount of information on Taylor's releases and credits the writers, features, and producers. It also provides artist provided and crowdsourced information on the lyrics, helping to add context and narrative to each song. 
+
+Spotify and Apple Music also hold a great amount of metadata on Taylor Swift on their systems. This includes album titles, track titles, track length, number of streams, album and single artwork, similar artists, playlists the artist is featured on, global ranking, upcoming concerts, monthly listeners, and an 'about' section. 
+
 #### Notated Data 
+Sites such as MuseScore, SheetMusic-Free, 
 #### Acoustic Data
