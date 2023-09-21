@@ -30,6 +30,6 @@ Acoustic data is readily available online on streaming sites such as Apple Music
 #### Access
 Many studio recordings of Taylor's may not be accessible without a subscription of some kind to a music streaming site. Some have been posted to YouTube for free access, but these may violate copyright laws and have some issues of fair use involved. Taylor has also previously made her music  unavailable on streaming sites by removing it from 2014-2017 as a way to adocate for small artists and protest streaming sites low payment of their artists. This is currently not an issue as she has since reuploaded all of her music. 
 
-### Curation
+#### Curation
 
-### Distribution 
+#### Distribution 
