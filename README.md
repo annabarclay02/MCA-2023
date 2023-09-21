@@ -25,3 +25,11 @@ Sites such as MuseScore, SheetMusic-Free, and SheetMusicDirect all provide many 
 
 #### Acoustic Data
 Acoustic data is readily available online on streaming sites such as Apple Music, Spotify, Amazon Music etc. Many recordings of live performances are also available on sites such as TikTok and YouTube. Due to the current popularity and phenomenon surrounding Taylor's current tour *'The Eras Tour'*, live recordings are very easy to find and are of good quality. 
+
+### Task 3: Challenges
+#### Access
+Many studio recordings of Taylor's may not be accessible without a subscription of some kind to a music streaming site. Some have been posted to YouTube for free access, but these may violate copyright laws and have some issues of fair use involved. Taylor has also previously made her music  unavailable on streaming sites by removing it from 2014-2017 as a way to adocate for small artists and protest streaming sites low payment of their artists. This is currently not an issue as she has since reuploaded all of her music. 
+
+### Curation
+
+### Distribution 
