@@ -21,5 +21,7 @@ Genius also has an extensive amount of information on Taylor's releases and cred
 Spotify and Apple Music also hold a great amount of metadata on Taylor Swift on their systems. This includes album titles, track titles, track length, number of streams, album and single artwork, similar artists, playlists the artist is featured on, global ranking, upcoming concerts, monthly listeners, and an 'about' section. 
 
 #### Notated Data 
-Sites such as MuseScore, SheetMusic-Free, 
+Sites such as MuseScore, SheetMusic-Free, and SheetMusicDirect all provide many different scores for Taylor Swift songs. A majority of these are free but some are behind a paywall. A large variety of difficulties and instruments is covered including orchestral pieces, and pieces for specific instruments such as piano, vocal, or violin. 
+
 #### Acoustic Data
+Acoustic data is readily available online on streaming sites such as Apple Music, Spotify, Amazon Music etc. Many recordings of live performances are also available on sites such as TikTok and YouTube. Due to the current popularity and phenomenon surrounding Taylor's current tour *'The Eras Tour'*, live recordings are very easy to find and are of good quality. 
