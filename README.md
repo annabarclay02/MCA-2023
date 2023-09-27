@@ -24,7 +24,7 @@ Sites such as [MuseScore](https://musescore.com/sheetmusic?text=taylor%20swift),
 #### Acoustic Data
 Acoustic data is readily available online on streaming sites such as Apple Music, Spotify, Amazon Music etc. Many recordings of live performances are also available on sites such as TikTok and YouTube. Due to the current popularity and phenomenon surrounding Taylor's current tour *'The Eras Tour'*, live recordings are very easy to find and are of good quality.
 
-Many of Taylor's live performances are also professionally recorded and she has two concert movies and another due to release in October.
+Many of Taylor's live performances and tours have also been professionally recorded and she has two concert movies with another due to release in October.
 
 ### Task 3: Challenges
 #### Access
