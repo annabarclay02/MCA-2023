@@ -5,3 +5,4 @@ As this is a fairly simple piano and vocal score MuseScore got 90% of the score 
 
 I had a few issues with hidden rests and correcting crochets to quavers but on the whole MuseScore was pretty accurate.
 
+
