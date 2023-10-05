@@ -10,5 +10,6 @@ Below is my MEI file of Taylor Swift's song 'Mirrorball' from her eighth studio 
 {% include_relative verovio_inline.html %}
 
 ## Differences of MEI and MusicXML
-
-Some text after the verovio score was inlined
+MEI and MusicXML have a large variety of differences, especially in terms of their respective hierarchies.
+XML focusses on 'note' as the parent element and most other elements as the child elements. 
+MEI, on the other hand, foccusses on staffs and measures as the parent elements.
