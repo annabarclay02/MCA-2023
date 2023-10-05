@@ -1,4 +1,4 @@
-# Title
+# Week 3: Encoding Basics for Notation
 
 Some text before the verovio score is inlined.
 Please note, the score will **NOT** appear when viewed from github, instead you must view it directly from the website.
