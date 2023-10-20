@@ -6,4 +6,4 @@
 4. Composer
 5. Producer
 ## Task 2: Edited MEI Header
-* [Updated MEI file](mirrorball_update.mei)
+* [Updated MEI file](data/mirrorball_update.mei)
