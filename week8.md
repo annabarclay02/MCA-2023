@@ -9,7 +9,8 @@ The songs I have chosen aplty represent these differences as I have opted to use
 
 Title|Artist|Composer|Copyright info|Genre|Source|File/audio format|Number of channels|Sample rate|Bits per second|Duration
 -----|------|--------|--------------|-----|------|-----------------|------------------|-----------|---------------|---------
-Should've Said No|Taylor Swift|Taylor Swift|Fair Use|Country|YouTube|MP3|2 - Stereo|48 kHz|16|04:02
-Style|Taylor Swift|Taylor Swift, Max Martin, Shellback & Ali Payami|Fair Use|Pop|YouTube|MP3|2 - Stereo|48 kHz|16|03:56
-False God|Taylor Swift|Taylor Swift & Jack Antonoff|Fair Use|Pop/Jazz|YouTube|MP3|2 - Stereo|48 kHz|16|03:21
+Should've Said No|Taylor Swift|Taylor Swift|Fair Use|Country|YouTube|WAV|2 - Stereo|48 kHz|16|04:02
+Style|Taylor Swift|Taylor Swift, Max Martin, Shellback & Ali Payami|Fair Use|Pop|YouTube|WAV|2 - Stereo|48 kHz|16|03:56
+False God|Taylor Swift|Taylor Swift & Jack Antonoff|Fair Use|Pop/Jazz|YouTube|WAV|2 - Stereo|48 kHz|16|03:21
 
+## Task 2: 
