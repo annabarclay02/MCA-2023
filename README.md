@@ -6,3 +6,4 @@
 * [Week 5 Tasks](week5.md)
 * [Week 7 Tasks](week7.md)
 * [Week 8 Tasks](week8.md)
+* [Week 9 Tasks](week9.md)
