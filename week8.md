@@ -13,4 +13,8 @@ Should've Said No|Taylor Swift|Taylor Swift|Fair Use|Country|YouTube|WAV|2 - Ste
 Style|Taylor Swift|Taylor Swift, Max Martin, Shellback & Ali Payami|Fair Use|Pop|YouTube|WAV|2 - Stereo|48 kHz|16|03:56
 False God|Taylor Swift|Taylor Swift & Jack Antonoff|Fair Use|Pop/Jazz|YouTube|WAV|2 - Stereo|48 kHz|16|03:21
 
-## Task 2: 
+## Task 2: Spectograms and Waveforms
+### My Images
+
+### Advantages of Time Frequency Analysis
+
