@@ -15,7 +15,7 @@ False God|Taylor Swift|Taylor Swift & Jack Antonoff|Fair Use|Pop/Jazz|YouTube|WA
 
 ## Task 2: Spectograms and waveforms
 ### My Images
-* [Should've Said No Waveform](data\SSN_waveform.png)
+* [Should've Said No Waveform](data/SSN_waveform.png)
 * [Should've Said No Spectrogram](SSN_spectrogram.png)
 * [Style Waveform](S_waveform.png)
 * [Style Spectrogram](S_spectrogram.png)
