@@ -15,6 +15,11 @@ False God|Taylor Swift|Taylor Swift & Jack Antonoff|Fair Use|Pop/Jazz|YouTube|WA
 
 ## Task 2: Spectograms and Waveforms
 ### My Images
-
+* [Should've Said No Waveform]()
+* [Should've Said No Spectogram]()
+* [Style Waveform]()
+* [Style Spectogram]()
+* [False God Waveform]()
+* [False God Spectogram]()
 ### Advantages of Time Frequency Analysis
 
