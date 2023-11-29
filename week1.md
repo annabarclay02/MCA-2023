@@ -1,4 +1,4 @@
-<a name = 'week1.md'></a> | <a name = 'topic_two'></a> | <a name = 'topic_three'> </a> | <a name = 'topic_one'></a> | <a name = 'topic_two'></a> | <a name = 'topic_three'></a>
+<a name = 'week1.md'>Basics of Music Data</a> | <a name = 'week2.md'>Notation Basics</a> | <a name = 'week3.md'>Encoding Basics for Notation</a> | <a name = 'week4.md'>Computational Analytics of Notated Music</a> | <a name = 'week5.md'>Standards in Curation</a> | <a name = 'week7.md'>Challenges to Music Curation</a> | <a name = 'week8.md'>Music as Sound</a> | <a name = 'week9.md'>Analysing and Extracting Meaning from Audio</a> | <a name = 'week10.md'>Audio Similarity and Transcription</a>
 # Week 1: Basics of Music Data
 ## Task 1: Theme 
 ### Theme: Taylor Swift
