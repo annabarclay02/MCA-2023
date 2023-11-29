@@ -1,4 +1,4 @@
-<a name = 'topic_one'></a> | <a name = 'topic_two'></a> | <a name = 'topic_three'> </a> | <a name = 'topic_one'></a> | <a name = 'topic_two'></a> | <a name = 'topic_three'></a>
+<a name = 'week1.md'></a> | <a name = 'topic_two'></a> | <a name = 'topic_three'> </a> | <a name = 'topic_one'></a> | <a name = 'topic_two'></a> | <a name = 'topic_three'></a>
 # Week 1: Basics of Music Data
 ## Task 1: Theme 
 ### Theme: Taylor Swift
