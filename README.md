@@ -1,4 +1,4 @@
-# MCA
+# Music Curation and Analytics 
 * [Week 1 - Basics of Music Data](week1.md)
 * [Week 2 - Notation Basics](week2.md)
 * [Week 3 - Encoding Basics for Notation](week3.md)
