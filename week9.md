@@ -18,9 +18,9 @@ Chromogram ![Bridge Chromogram](data/week9/mirrorball_bridge_chromogram.png)
 
 ## Task 2: Compute and visualise features with histograms
 Each MFCC was saved as CSV files and uploaded to the Python workbook. Below are the histograms that were created using Python. 
-### Verse
-![Verse Histogram](data/week9/mb_verse_histogram.png)
-### Chorus
-![Chorus Histogram](data/week9/mb_chorus_histogram.png)
-### Bridge
-![Bridge Histogram](data/week9/mb_bridge_histogram.png)
+### MFCC Histograms
+
+### Spectrogram Histograms
+
+### Chroma Histograms
+
