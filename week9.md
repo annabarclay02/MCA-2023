@@ -2,7 +2,10 @@
 
 # Week 9: Analysing and Extracting Meaning from Audio
 ## Task 1: Extract Features
-### 
+As I am largely focussing on Taylor Swift's song *'mirrorball'* for my project, I decided to split the song into  sections and choose three of these to feature in my analysis rather than find three other songs. The sections I chose are the first verse, the chorus, and the bridge. I chose these as they seemed like obvious divisions in the music and all hold characterstics not found in the other sections. Below are the Spectrograms, the Mel Frequency Cepstral Coefficients, and the Chromagrams for each sections:
+### Verse
+### Chorus
+### Bridge
 
 ## Task 2: Compute and visualise features with histograms
 ###
