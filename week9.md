@@ -9,7 +9,7 @@ As I am largely focussing on Taylor Swift's song *'mirrorball'* for my project, 
 ![Verse Chromogram](data/week9/mirrorball_verse_chromogram.png)
 ### Chorus
 ![Chorus Spectrogram](data/week9/mirrorball_chorus_spectrogram.png)
-![Chorus MFCC](data/week9/mirrorball_chrous_MFCC.png)
+![Chorus MFCC](data/week9/mirrorball_chorus_MFCC.png)
 ![Chorus Chromogram](data/week9/mirrorball_chorus_chromogram.png)
 ### Bridge
 ![Bridge Spectrogram](data/week9/mirrorball_bridge_spectrogram.png)
