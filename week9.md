@@ -17,4 +17,5 @@ MFCC ![Bridge MFCC](data/week9/mirrorball_bridge_MFCC.png)
 Chromogram ![Bridge Chromogram](data/week9/mirrorball_bridge_chromogram.png)
 
 ## Task 2: Compute and visualise features with histograms
-###
+Each MFCC was saved as CSV files and uploaded to the Python workbook. Below are the histograms that were created using Python. 
+
