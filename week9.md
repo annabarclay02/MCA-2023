@@ -26,4 +26,4 @@ Each pane for each section was saved as a CSV file and uploaded to the Python wo
 ![Chroma Histograms](data/week9/chroma_histograms.png)
 
 ### Analysis of Histograms
-For this task, I will be analysing the MFCC histograms. MFCCs are often used to analyse the timbre of a track and understand the distribution of energy. We can see from these histograms that the verse is very different from the chorus and bridge, which are very similar. 
+
