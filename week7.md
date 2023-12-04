@@ -3,7 +3,7 @@
 # Week 7: Challenges to Music Curation
 ## Task 1: MEI Metadata 
 Download of update MEI file available [here](data/mirrorball_update2.mei).
-Below is my added and formatted metadata.
+Below is my added and formatted metadata. I have attempted to fix this issue but the producers and release date don't seem to be presented correctly. The producer line has no title, unlike composer, and the release date is listed as an encoding date.
 
 {% include_relative myMeta.html %}
 
