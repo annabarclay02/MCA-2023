@@ -9,6 +9,8 @@ I had a few issues with hidden rests and correcting crochets to quavers but on t
 
 MuseScore also failed to convert the lyrics of my piece. They do have the option to add them manually but this would be quite time consuming and complicated. This lack of lyrics has resulted in the vocal section of the piece being represented by choral sounding 'oohs' instead. While they do not sound like the timbre or tone of the original, they provide a decent suggestion of the vocal aspect of the piece and so I am satisfied with the conversion. 
 
-My MuseScore file is linked [here](data/mirrorball.mscz)
+My MuseScore file is linked [here](data/mirrorball.mscz) and the pdf is shown below:
+
+![Mirrorball PDF](data/mirrorball.pdf)
 
 
