@@ -15,13 +15,13 @@
                 <persName role="composer" auth.uri="https://viaf.org/viaf/1452163710049029700006/#Folklore_(Zusammenstellung,_Taylor_Swift)">Taylor Swift and Jack Antonoff</persName>   
             </respStmt>
             <respStmt>
-                <persName role="producer">Taylor Swift and Jack Antonoff</persName>
+                <persName role="producer" auth.uri="https://viaf.org/viaf/1452163710049029700006/#Folklore_(Zusammenstellung,_Taylor_Swift)">Taylor Swift and Jack Antonoff</persName>
             </respStmt>	
          </titleStmt>
          
 	 <pubStmt xml:id="p1jzj263">
-         <date type="released">July 24, 2020</date>
-            <date isodate="2023-10-05" type="encoding-date">2023-10-05</date>
+         <date isodate="2023-07-24" type="release-date">July 24, 2020</date>
+            <date isodate="2023-10-05" type="encoding-date">October 5, 2023</date>
          <availability>
            <useRestrict auth.uri="https://creativecommons.org/licenses/by-nc/4.0/deed.en" auth="Creative Commons">Creative Commons Attribution-NonCommercial 4.0 International, CC BY-NC 4.0 DEED</useRestrict>
       	 </availability>
