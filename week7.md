@@ -4,6 +4,8 @@
 ## Task 1: MEI Metadata 
 [Second updated MEI file with added metadata](data/mirrorball_update2.mei)
 
+{% include_relative myMeta.html %}
+
 ### Genre
 The genre for this piece as Alternative/Indie-Pop/Indie-Folk. I chose to add multiple genres as I feel the song, and album on the whole, crosses a variety of genres. 
 
