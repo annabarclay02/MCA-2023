@@ -9,8 +9,10 @@ Using the same three sections as in Week 9, I extracted the chroma features and 
 ![Similarity Matrix](data/week10/similarity_matrix.png)
 
 ## Task 2: Transcription
-For the second half of this week's task, I converted my WAV file of *mirrorball* into a MIDI file in order to compare it with the original score. I opened the MIDI file in MuseScore to see the transcription displayed as a score. Below are the results: 
+For the second half of this week's task, I converted my WAV file of *mirrorball* into a MIDI file in order to compare it with the original score. I opened the MIDI file in MuseScore to see the transcription displayed as a score. Below are the results of the first two pages of each score: 
 ### WAV File Transcription
 ![WAV File Score](data/week10/mirrorball_wav_score.png)
 ### MIDI File Recreation
 ![MIDI File Score](data/week10/mirrorball_midi_score.png)
+### Analysis
+The first detail that I noticed when comparing the WAV score with the MIDI score was the number of staves. In the original piece, there is a treble clef stave for the vocals, and two staves for the piano (treble and bass). In the MIDI transcription there is only two staves, instead of the original three. When played in MuseScore, the MIDI file sounds almost identical to the original WAV file, however the sheet music is very confusing and almost illegible. This is due to the vocal stave being converted added to the piano staves and combined with the original piano score. Another difference I noticed is that the original trancription is in D major, compared to the MIDI score which is in D♭ major.
