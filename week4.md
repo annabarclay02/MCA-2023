@@ -6,3 +6,7 @@
 Below are the three graphs that I generated usng music21. The first graph (left) is a histogram representing the pitch of the piece. The second graph (right) is a scatter graph representing pitch by length of quarter note. The third graph (bottom) is a piano roll. 
 ![Graphs 1 and 2](data/graphs1_2.png)
 ![Graph 3](data/piano_roll.png)
+
+---
+
+[<-- Previous - Week 3](week3.md) ---------------------------------------------------------------------------------------------------------------------------------------------------- [Next - Week 5 -->](week5.md)
