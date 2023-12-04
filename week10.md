@@ -10,3 +10,7 @@ Using the same three sections as in Week 9, I extracted the chroma features and 
 
 ## Task 2: Transcription
 For the second half of this week's task, I converted my WAV file of *mirrorball* into a MIDI file in order to compare it with the original score. I opened the MIDI file in MuseScore to see the transcription displayed as a score. Below are the results: 
+### WAV File Transcription
+![WAV File Score](data/week10/mirrorball_wav_score.png)
+### MIDI File Recreation
+![MIDI File Score](data/week10/mirrorball_midi_score.png)
