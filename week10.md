@@ -6,12 +6,6 @@ Using the same three sections as in Week 9, I extracted the chroma features and 
 ### Mean Representation of All Tracks and 2D Similarities of A and C
 ![Mean Representation](data/week10/2d_vector_similarity.png)
 ### Similarity Matrix in 2 Dimensions and 12 Dimensions
-2 Dimensions 
-
-![2D Similarity](data/week10/similarity_a_vs_c.png) 
-
-12 Dimensions 
-
-![12D Similarity](data/week10/similarity_12d.png)
+![Similarity Matrix](data/week10/similarity_matrix.png)
 
 ## Task 2: Transcription
