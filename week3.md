@@ -6,6 +6,7 @@ This week we had the task of converting our mcsz file into a MusicXML file, and 
 This was done using MuseScore and Verovio.
 
 My MusicXML file is linked [here](data/mirrorball.musicxml).
+My MEI file available for download [here](data/mirrorball.mei).
 
 Below is my MEI file of Taylor Swift's song 'Mirrorball' from her eighth studio album *folklore*.
 
