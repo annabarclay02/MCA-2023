@@ -3,6 +3,5 @@
 # Week 4: Computational Analytics of Notated Music
 ## Task 1: music21 
 ### Graphs
-![Graph 1](data/octave_by_count.png)
-![Graph 2](data/piano_roll.png)
-![Graph 3](data/quarter_length_by_pitch.png)
+![Graphs 1 and 2](data/graphs1_2.png)
+![Graph 3](data/piano_roll.png)
