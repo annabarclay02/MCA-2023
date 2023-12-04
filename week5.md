@@ -9,7 +9,7 @@
 5. Producer
 
 ## Task 2: Edited MEI Header
-The updated MEI file can be found [here](data/mirrorball_update.mei).
+The updated MEI file can be downloaded [here](data/mirrorball_update.mei) and is shown below.
 
 {% include_relative verovio.html %}
 
