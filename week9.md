@@ -17,10 +17,16 @@ MFCC ![Bridge MFCC](data/week9/mirrorball_bridge_MFCC.png)
 Chromogram ![Bridge Chromogram](data/week9/mirrorball_bridge_chromogram.png)
 
 ## Task 2: Compute and visualise features with histograms
-Each MFCC was saved as CSV files and uploaded to the Python workbook. Below are the histograms that were created using Python. 
+Each pane for each section was saved as a CSV file and uploaded to the Python workbook. Below are the histograms that were created using Python. 
 ### MFCC Histograms
-
+Verse ![Verse MFCC Historgram](data/week9/mb_verse_MFCC_histogram.png)
+Chorus ![Chorus MFCC Historgram](data/week9/mb_chorus_MFCC_histogram.png)
+Bridge ![Bridge MFCC Historgram](data/week9/mb_bridge_MFCC_histogram.png)
 ### Spectrogram Histograms
-
+Verse ![Verse Spectrogram Historgram](data/week9/MB_verse_spectro_histogram.png)
+Chorus ![Chorus Spectrogram Historgram](data/week9/MB_chorus_spectro_histogram.png)
+Bridge ![Bridge Spectrogram Historgram](data/week9/MB_bridge_spectro_histogram.png)
 ### Chroma Histograms
-
+Verse ![Verse Chromagram Historgram](data/week9/MB_verse_chroma_histogram.png)
+Chorus ![Chorus Chromagram Historgram](data/week9/MB_chorus_chroma_histogram.png)
+Bridge ![Bridge Chromagram Historgram](data/week9/MB_bridge_chroma_histogram.png)
