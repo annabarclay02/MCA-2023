@@ -9,3 +9,4 @@ Using the same three sections as in Week 9, I extracted the chroma features and 
 ![Similarity Matrix](data/week10/similarity_matrix.png)
 
 ## Task 2: Transcription
+For the second half of this week's task, I converted my WAV file of *mirrorball* into a MIDI file in order to compare it with the original score. I opened the MIDI file in MuseScore to see the transcription displayed as a score. Below are the results: 
