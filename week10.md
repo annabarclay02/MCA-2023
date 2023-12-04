@@ -5,8 +5,13 @@
 Using the same three sections as in Week 9, I extracted the chroma features and saved them as CSV files in order to create a similarity matrix using Python. For the purposes of this matrix, tracks 0-3 are classical pieces, tracks 4-6 are rock pieces, and tracks 7, 8, and 9 are my three sections of the song *mirrorball*. I would place tracks 7-9 in the genre of indie/folk. Track 7 represents the bridge, track 8 represents the chorus, and track 9 represents the bridge. 
 ### Mean Representation of All Tracks and 2D Similarities of A and C
 ![Mean Representation](data/week10/2d_vector_similarity.png)
-### Similarity in 2 Dimensions and 12 Dimensions
-![2D Similarity](data/week10/similarity_a_vs_c.png)
+### Similarity Matrix in 2 Dimensions and 12 Dimensions
+2 Dimensions 
+
+![2D Similarity](data/week10/similarity_a_vs_c.png) 
+
+12 Dimensions 
+
 ![12D Similarity](data/week10/similarity_12d.png)
 
 ## Task 2: Transcription
