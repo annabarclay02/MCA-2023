@@ -19,5 +19,5 @@ The first detail that I noticed when comparing the WAV score with the MIDI score
 
 ---
 
-[<-- Previous - Week 10](week10.md) 
+[<-- Previous - Week 9](week9.md) 
 
