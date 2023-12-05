@@ -8,7 +8,7 @@ Below is my added and formatted metadata. I have attempted to fix this issue but
 {% include_relative myMeta.html %}
 
 ### Genre
-The genre for this piece as Alternative/Indie-Pop/Indie-Folk. I chose to add multiple genres as I feel the song, and album on the whole, crosses a variety of genres. 
+The genre for this piece is Alternative/Indie-Pop/Indie-Folk. I chose to add multiple genres as I feel the song, and album on the whole, crosses a variety of genres. 
 
 Taylor Swift is largely renowned for being a pop singer who got her start in country music. The albums folklore and evermore are her first transgressions into the Indie-Folk sphere, however, she is still overwhelmingly known for her pop music. 
 
