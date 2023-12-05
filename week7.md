@@ -20,3 +20,7 @@ This allows users to share and adapt the work for non-commercial purposes as lon
 
 ### Composer
 I thought it was relevant to include the composers of the piece as Taylor Swift and Jack Antonoff. It is important to highlight that Swift writes all of her own music, hence why she is allowed to re-record her albums that she doesn't own. Antonoff is one of her main collaborators and they have worked together on Swift's last six original albums as well as her re-records.
+
+---
+
+[<-- Previous - Week 5](week5.md) ---------------------------------------------------------------------------------------------------------------------------------------------------- [Next - Week 8 -->](week8.md)
