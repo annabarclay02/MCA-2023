@@ -2,11 +2,12 @@
 
 # Week 5: Standards in Curation
 ## Task 1: My Metadata Schema
-1. Title
+The elements I would like to include in my schema are:
+1. Song Title
 2. Album Title
 3. Date Released
-4. Composer
-5. Producer
+4. Composer(s)
+5. Producer(s)
 
 ## Task 2: Edited MEI Header
 The updated MEI file can be downloaded [here](data/mirrorball_update.mei) and is shown below.
