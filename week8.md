@@ -35,5 +35,3 @@ There are many advantages to using time frequency analysis over a waveform. One 
 
 [<-- Previous - Week 7](week7.md) ---------------------------------------------------------------------------------------------------------------------------------------------------- [Next - Week 9 -->](week9.md)
 
-
-
