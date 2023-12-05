@@ -11,5 +11,7 @@ MuseScore also failed to convert the lyrics of my piece. They do have the option
 
 My MuseScore file is linked [here](data/mirrorball.mscz).
 
+--- 
+
 [<-- Previous - Week 1](week1.md) ---------------------------------------------------------------------------------------------------------------------------------------------------- [Next - Week 3 -->](week3.md)
 
