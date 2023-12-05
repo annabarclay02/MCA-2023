@@ -5,7 +5,7 @@
 ### Graphs
 Below are the three graphs that I generated usng music21. 
 
-The first graph (left) is a histogram representing the pitch of the piece, this shows us how many times a notes has been played in the track. 
+The first graph (left) is a histogram representing the pitch of the piece, this shows us how many times a notes has been played in the track. From the histogram we can see that D4 is the most common pitch in the song.
 
 The second graph (right) is a scatter graph representing pitch by length of quarter note, another way of visualising note vs amount played except this time it is measure by quarter length. 
 
