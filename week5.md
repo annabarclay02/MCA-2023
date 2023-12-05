@@ -13,3 +13,7 @@ The updated MEI file can be downloaded [here](data/mirrorball_update.mei) and is
 
 {% include_relative verovio.html %}
 
+---
+
+[<-- Previous - Week 4](week4.md) ---------------------------------------------------------------------------------------------------------------------------------------------------- [Next - Week 7 -->](week7.md)
+
