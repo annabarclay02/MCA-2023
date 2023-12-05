@@ -31,6 +31,8 @@ There are many advantages to using time frequency analysis over a waveform. One 
 ![False God Introduction](data/FG_intro.png)
 ![False God HiHat](data/FG_hihat.png) 
 
+---
+
 [<-- Previous - Week 7](week7.md) ---------------------------------------------------------------------------------------------------------------------------------------------------- [Next - Week 9 -->](week9.md)
 
 
